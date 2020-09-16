@@ -16,7 +16,6 @@
 				<configuration>
 					<scanIntervalSeconds>0</scanIntervalSeconds>
 				</configuration>
-				<!--demo-->
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
